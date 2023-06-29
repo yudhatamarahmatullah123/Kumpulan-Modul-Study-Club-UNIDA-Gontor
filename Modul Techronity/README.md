@@ -42,7 +42,7 @@ Menjadi komunitas Study Club Techronity yang menjadi pusat pembelajaran, kolabor
 Dengan visi dan misi ini, kami bertujuan untuk menciptakan lingkungan yang inspiratif dan mendukung bagi anggota Study Club Techronity untuk tumbuh dan berkembang dalam bidang teknologi Arduino, serta memberikan kontribusi nyata dalam masyarakat melalui solusi teknologi yang inovatif.
 
 ## Roadmap Kegiatan Pembelajaran
-1. [Menginstal Program Arduino UNO](Materi/Modul Arduino-10-19.pdf)
+1. [Menginstal Program Arduino UNO](Materi/Modul%20Arduino-10-19.pdf)
 2. [Program LED Berkedip](Materi/Modul%20Arduino-20-26.pdf)
 3. [Program LED Berderet](Materi/Modul%20Arduino-27-30.pdf)
 4. [Program Traffict Light](Materi/Modul%20Arduino-31-37.pdf)
